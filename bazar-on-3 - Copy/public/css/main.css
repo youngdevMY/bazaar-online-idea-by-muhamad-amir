@@ -1,0 +1,62 @@
+.card__box {
+  padding: 0px !important;
+}
+.category-img-box {
+  margin-top: 25px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  height: 120px;
+}
+.category-img-box img {
+  height: 100%;
+  width: 100%;
+}
+.card .card-image .card-title {
+  padding: 0;
+  padding-left: 5px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 600;
+}
+.carousel.carousel-slider {
+  height: 12vw !important;
+}
+.carousel.carousel-slider .carousel-item h2 {
+  margin: 2.5vw;
+}
+.add-menu-title {
+  margin-top: 5vw;
+}
+.menu-card-image {
+  height: 190px;
+}
+.card .card-image img {
+  height: 100%;
+}
+.menu-detail-image-box {
+  overflow: hidden;
+  height: 350px;
+}
+.menu-detail-image-box img {
+  height: 100%;
+}
+.menu-detail-title {
+  padding: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+.tabs .indicator {
+  background-color: #1b5e20;
+}
+.tabs .tab a:focus,
+.tabs .tab a:focus.active {
+  background: transparent;
+}
+.menu-detail-desc {
+  padding: 20px;
+}
+.menu-detail-button {
+  width: 100%;
+}
